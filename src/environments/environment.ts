@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyAspX-zMkN04ucfr7z4r7t5ptfzgyEahdk',
+    apiKey: '',
     authDomain: 'creative-chameleon.firebaseapp.com',
     databaseURL: 'https://creative-chameleon.firebaseio.com',
     projectId: 'creative-chameleon',
     storageBucket: 'creative-chameleon.appspot.com',
-    messagingSenderId: '708442655622'
+    messagingSenderId: ''
   }
 };
